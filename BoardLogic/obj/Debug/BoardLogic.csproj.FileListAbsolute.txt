@@ -1,0 +1,6 @@
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\beren\OneDrive\Masaüstü\Apps\C# Projects\TicTacToeGame\BoardLogic\obj\Debug\BoardLogic.pdb
